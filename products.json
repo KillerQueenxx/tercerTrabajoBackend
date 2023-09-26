@@ -1,0 +1,11 @@
+[
+    {
+      "title": "Producto Actualizado",
+      "description": "Descripción actualizada",
+      "price": 19.99,
+      "thumbnail": "imagen2.jpg",
+      "code": "P1",
+      "stock": 50,
+      "id": 1
+    }
+  ]
